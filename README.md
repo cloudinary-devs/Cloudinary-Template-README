@@ -21,6 +21,12 @@
 </div>
 
 # Cloudinary-Project-Name
+<!-- Change the name of your Project by following the naming convention:
+Cloudinary-Technology-ProjectName-Demo
+
+E.g
+Cloudinary-React-UploadWidget-Demo
+ -->
 
 <!-- Project Description  -->
 
@@ -28,7 +34,13 @@
 
 <!-- Setup Description  -->
 
-<!-- Requirements -->
+<!-- Requirements 
+
+E.g
+- Have a Cloudinary account
+- NodeJS v16.0
+- React v18.0
+-->
 
 ## Run the App
 
