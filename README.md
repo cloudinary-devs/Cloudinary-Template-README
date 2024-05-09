@@ -51,7 +51,7 @@ E.g
 
 The Cloudinary Community empowers you to advance your career while enhancing your products and developer experience. Engage in collaborative coding and documentation, connect with fellow enthusiasts, and gather insights from a vibrant open-source network. By actively participating in this community, you'll not only improve your skills but also contribute to the collective knowledge, fostering innovation and growth for all involved.
 
-Visit the [Official Community Website](https://community.cloudinary.com/)
+Visit the [Official Community Website](https://community.cloudinary.com/).
 - Twitter: [@cloudinary](https://twitter.com/cloudinary)
 - GitHub: [@cloudinary-devs](https://github.com/cloudinary-devs)
 
